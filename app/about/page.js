@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import ImagenPrueba from '@/public/img/imagenPrueba.jpg'
 
-export default function Example1() {
+export default function About() {
     return (
         <div className='flex justify-center w-full mt-3'>
             <Image

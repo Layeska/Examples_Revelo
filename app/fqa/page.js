@@ -1,6 +1,6 @@
 import { useFont } from "@/hook/useFont"
 
-export default function Example2() {
+export default function Fqa() {
     const font = useFont()
 
     return (
